@@ -5,9 +5,10 @@
 
 
 <h4>Welcome to my GitHub profile!</h4>
-<p> I'm a <i>proud career switcher</i>, previously a Store Manager in Spanish Steps (Rome, Italy) and now a passionate <b>Full-stack developer</b> with 6YOE.</p> 
-<p> I love building BE and FE apps and experimenting with new technologies.</p>
-<br><br><br><br><br><br><br>
+<p>👓 I'm  a passionate full-stack software developer who made the leap from the world of retail to the exciting realm of software development six years ago.</p> <br>
+<p>💻 I thrive on collaborating with teams, owning decisions, and embracing the journey of continuous learning. I firmly believe that making mistakes is an integral part of growth and that they pave the way for delivering impactful work.</p><br>
+<p>🚀 My journey in software development has been incredibly rewarding, and I'm always eager to explore new technologies, tackle challenges head-on, and contribute to meaningful projects that make a difference.</p><br>
+<br>
 <div>
   <h2>About Me</h2>
 </div>
