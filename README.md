@@ -36,6 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
@@ -47,7 +48,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg"  width="70" height="40" style="vertical-align:down; margin:4px" />        
 </div>
 
