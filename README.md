@@ -14,7 +14,7 @@
 </div>
 <div>
   <ul>
-    <li>💼 Currently working on: Full-stack Software Engineer in Expedia Group via Capgemini</li>
+    <li>💼 Currently working on: Angular v.18 and Java </li>
     <li>🌱 Learning: React.js, Kotlin is next</li>
     <li>🤔 Interested in: Backend and Frontend technologies and Agile methodologies... I do not put limits to curiosity :D</li>
     <li>💬 Talk to me about:  
